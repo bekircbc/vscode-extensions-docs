@@ -4,9 +4,9 @@
 - add your github account to vscode
 - install this extensions for coding
 
-       -- Auto Complete Tag
-       -- Auto Rename Tag
-       -- autoDocstring-Python Docstring
+          -- Auto Complete Tag
+          -- Auto Rename Tag
+          -- autoDocstring-Python Docstring
           -- Beter C++ Syntax
           -- Browser Lite
           -- C/C++
